@@ -45,14 +45,14 @@ This repository implements an MNIST digit classifier in C, including:
 ## Results
 
 ### ASCII Visualization of MNIST Digit
-![MNIST Digit Visualization](screenshots/mnist_digit.png)
+![MNIST Digit Visualization](mnist_digit.png)
 
 The program displays MNIST digits as ASCII art before training begins.
 
 ---
 
 ### Training Progress
-![Training Progress](screenshots/training_progress.png)
+![Training Progress](training_progress.png)
 
 The model trains for 10 epochs, achieving **93.2% test accuracy** on the MNIST test set.
 
@@ -64,7 +64,7 @@ Key metrics:
 ---
 
 ### Confusion Matrix & Per-Class Accuracy
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 Per-digit accuracy breakdown:
 - **Best performance**: Digit 0 (98.27%), Digit 1 (97.44%)
