@@ -4,8 +4,7 @@
 
 This project was inspired by the work of:
 
-Ian Dvorin (Magicalbat)  
-https://github.com/Magicalbat
+Ian Dvorin (Magicalbat) - https://github.com/Magicalbat
 
 I used his approach and style as a learning foundation for implementing machine learning systems in C.
 
