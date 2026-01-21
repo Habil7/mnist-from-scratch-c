@@ -140,3 +140,56 @@ Install dependencies:
 
 ```bash
 pip install numpy tensorflow-datasets
+
+Run:
+```
+python mnist.py
+```
+
+This generates:
+* `train_images.mat`
+* `train_labels.mat`
+* `test_images.mat`
+* `test_labels.mat`
+
+2) Compile (C)
+
+Using clang:
+```
+clang main.c -O3 -lm
+```
+
+Or using gcc:
+```
+gcc main.c -O3 -lm
+```
+
+3) Run
+
+On Linux / macOS:
+```
+./a.out
+```
+
+On Windows (PowerShell):
+```
+.\a.exe
+```
+
+You should see:
+* ASCII visualization of an MNIST digit
+* predictions before training
+* training progress across epochs and batches
+* predictions after training
+* confusion matrix and per-class accuracy
+
+Notes
+* This is an educational project and may not be optimized for production ML performance.
+* The goal is to understand low-level ML mechanics in C.
+* Credit is provided above for the original inspiration source.
+
+License
+
+This repository includes an MIT License file.
+
+Original inspiration credited to: Ian Dvorin (Magicalbat) — https://github.com/Magicalbat
