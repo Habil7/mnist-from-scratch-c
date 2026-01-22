@@ -6,7 +6,7 @@ This project was inspired by the work of:
 
 Ian Dvorin (Magicalbat) - https://github.com/Magicalbat
 
-I used his approach and style as a learning foundation for implementing machine learning systems in C.
+I used his general approach and coding style as a learning reference while building and organizing my own version of the project in this repository.
 
 ---
 
@@ -77,7 +77,7 @@ Per-class accuracy (from the output):
 
 ## My Contributions
 
-Even though the original inspiration and implementation style came from Ian Dvorin (Magicalbat), my work in this repository reflects my own learning-based implementation and project setup.
+Even though the original inspiration and implementation style came from Ian Dvorin (Magicalbat), my work in this repository reflects my learning-focused implementation, project setup, and documentation.
 
 My contributions include:
 
