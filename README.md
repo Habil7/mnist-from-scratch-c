@@ -1,6 +1,6 @@
 # MNIST From Scratch in C
 
-## Original Source / Inspiration (Credit First)
+## Original Source / Inspiration 
 
 This project was inspired by the work of:
 
